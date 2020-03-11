@@ -1,5 +1,7 @@
 name: CBSystem
-author: ceepkev77
+author: 
+ - ceepkev77
+ - r3pt1s
 api: [3.0.0, 4.0.0]
 version: 0.0.1
 main: ceepkev77\CityBuild
