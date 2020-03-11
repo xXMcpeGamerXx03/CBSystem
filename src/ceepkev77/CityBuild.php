@@ -11,6 +11,5 @@ class CityBuild extends PluginBase implements Listener {
       $this->getServer()->getLogger()->notice(Main::prefix . "§aPlugin wurde geladen!")
       $this->getServer()->getPluginManager()->registerEvents($this, $this)
   }
-}
-public const prefix = "§8[§6CBSystem§8] ";
+   public const prefix = "§8[§6CBSystem§8] ";
 }
